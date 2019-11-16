@@ -19,7 +19,8 @@
 
 </head>
 <body>
-<nav class="navbar navbar-light fixed-top" style="border-bottom: 2px solid #068e06; padding: 0.2rem 1rem;">
+
+<nav class="navbar navbar-light" style="border-bottom: 2px solid #068e06; padding: 0.2rem 1rem;">
 	<div class="container">
 		<a class="navbar-brand">
 			<img src="https://www.semovi.cdmx.gob.mx/themes/base/assets/images/logos/Logo_CDMX.png" style="width: 25%; height: auto;" />
